@@ -1891,6 +1891,14 @@ Generate beautiful, dynamic GitHub profile cards in seconds — Netflix, X (Twit
   <img src="https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=BUILDING+AI+AGENTS&focus=Agentic+workflows+%26+open-source&accent=%23A78BFA" alt="cinematic profile card" width="49%" />
 </p>
 
+### 11 . [Cute Readme](https://github.com/kimjungminn24/cute-readme)
+Furnish a pixel room for your profile and assemble your README from drag-and-drop blocks, all in the browser.
+
+📍 For example :
+<p align="center">
+  <img width="720" alt="a pixel room made with Cute Readme" src="https://raw.githubusercontent.com/kimjungminn24/cute-readme/main/docs/room.svg">
+</p>
+
 ---
 
 </details>
